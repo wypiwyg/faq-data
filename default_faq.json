@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is this tool?",
+    "answer": "This tool is a generative AI-powered FAQ builder that generates high-quality FAQs swiftly and effortlessly. It utilizes a prompt system and the output is displayed as a FAQ, as demonstrated here. You can find more info on how it works below."
+  },
+  {
+    "answer": "To obtain an API key for this tool, you typically need to create an account and follow the guidelines provided in the documentation or settings section.",
+    "question": "How do I obtain an API key for this tool?"
+  },
+  {
+    "answer": "Yes, we confirm that we do not store or share API keys. They are used solely on the client side and remain under your control and management.",
+    "question": "Can you confirm that you don't store API keys?"
+  },
+  {
+    "answer": "The pricing for this tool varies based on the plan you choose. It may offer free, basic, premium, and enterprise plans. For detailed pricing information, please refer to the official website.",
+    "question": "What is the pricing for using this tool?"
+  },
+  {
+    "answer": "This tool employs advanced algorithms with safe guards to ensure the safety and reliability of its content. That being said you should always read carefully the generated content. If you encounter any issues, please report them to support.wypiwyg@gmail.com for further investigation.",
+    "question": "How does this tool maintain safe and reliable content?"
+  },
+  {
+    "answer": "Yes, this tool is committed to accessibility and strives to make its services available to all users. It adheres to web accessibility standards to provide an inclusive experience.",
+    "question": "Is this tool accessible to all users?"
+  }
+]
